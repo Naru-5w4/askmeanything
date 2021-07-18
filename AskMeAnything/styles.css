@@ -96,11 +96,12 @@ textarea{
 .btn{
 	width: 100%;
 	padding: 0.5rem 1rem;
-	background-color: #27ae60;
+/* 	background-color: #27ae60; */
+	background-color: black;
 	color: #fff;
 	font-size: 1.1rem;
 	border: none;
-  border-radius: 3px;
+  	border-radius: 3px;
 	outline: none;
 	cursor: pointer;
 	transition: .3s;
