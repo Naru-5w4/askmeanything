@@ -94,6 +94,8 @@ textarea{
 }
 
 .btn{
+        -webkit-appearance: none;
+        border-radius: 0;
 	width: 100%;
 	padding: 0.5rem 1rem;
 /* 	background-color: #27ae60; */
@@ -108,10 +110,14 @@ textarea{
 }
 
 .btn:hover  {
+    -webkit-appearance: none;
+    border-radius: 0;
     background-color: #202124;
 }
 
 .btn:active {
+    -webkit-appearance: none;
+    border-radius: 0;
     background-color: #202124;
 }
 
